@@ -4,3 +4,7 @@ git has a  mutable index called stage.
 
 is
 ff
+
+bb
+
+cc
