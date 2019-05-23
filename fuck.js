@@ -1,4 +1,5 @@
 Git is a distributed control 
 Git is free software.
 git has a  mutable index called stage.
-creat a new branch and fff 
+
+Creating a new branch is quick & simple.
